@@ -1,14 +1,12 @@
-🎓 Rede Escolar - Sistema de Gestão
+<h1>🎓 Rede Escolar - Sistema de Gestão </h1>
 
-📌 Sobre o Projeto
+<h2> 📌 Sobre o Projeto </h2> 
 
 O Rede Escolar é um sistema web desenvolvido em PHP, projetado para gerir a infraestrutura tecnológica de escolas. O seu objetivo é centralizar o controlo de salas, equipamentos, técnicos e intervenções, otimizando a administração de recursos e a manutenção. Este sistema visa simplificar processos, garantir a disponibilidade dos equipamentos e apoiar um ambiente de aprendizagem eficiente.
 
-✨ Funcionalidades
+<h2> ✨ Funcionalidades </h2> 
 
-O sistema Rede Esco
-
-lar oferece funcionalidades essenciais para uma gestão tecnológica escolar eficaz:
+O sistema Rede Escolar oferece funcionalidades essenciais para uma gestão tecnológica escolar eficaz:
 
 • 📊 Dashboard Interativo: Apresenta uma visão geral em tempo real do estado da infraestrutura tecnológica, com estatísticas sobre equipamentos e intervenções. Ajuda na tomada de decisões e alocação de recursos.
 
@@ -20,13 +18,8 @@ lar oferece funcionalidades essenciais para uma gestão tecnológica escolar efi
 
 • 🔎 Interface Simples e Intuitiva: Com um design limpo e moderno, a interface é fácil de usar, minimizando a curva de aprendizagem e maximizando a produtividade de administradores e técnicos.
 
-📷 Screenshots
+<h2> 📄 Links </h2> 
 
-Adiciona aqui imagens do sistema para demonstrar as funcionalidades e a interface de utilizador.
-
-📄 Licença
-
-Este projeto está licenciado sob a Licença MIT. Consulte o ficheiro LICENSE para mais detalhes sobre os termos de uso e distribuição.
 
 
 
