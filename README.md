@@ -20,7 +20,10 @@ O sistema Rede Escolar oferece funcionalidades essenciais para uma gestão tecno
 
 <h2> 📄 Links </h2> 
 
+Infinity Free:
+[https://a14628-oficina.infinityfree.me/fp-03/login.php]
 
+Download Codigo:
 
 
 
