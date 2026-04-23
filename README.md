@@ -1,4 +1,4 @@
-<h1>🎓 Rede Escolar - Sistema de Gestão </h1>
+<h1>🎓 Rede Escolar - Sistema de Gestão de Infraestrutura de Rede Escolar</h1>
 
 <h2> 📌 Sobre o Projeto </h2> 
 
